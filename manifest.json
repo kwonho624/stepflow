@@ -1,0 +1,30 @@
+{
+  "name": "StepFlow",
+  "short_name": "StepFlow",
+  "description": "꿈비 생산성 관리 시스템",
+  "start_url": "/stepflow/",
+  "scope": "/stepflow/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#00B5A1",
+  "theme_color": "#00B5A1",
+  "icons": [
+    {
+      "src": "/stepflow/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/stepflow/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/stepflow/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
